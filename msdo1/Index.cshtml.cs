@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace msdo1.Pages
+namespace msdo1
 {
     public class IndexModel : PageModel
     {
