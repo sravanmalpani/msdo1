@@ -12,8 +12,4 @@
     <PackageReference Include="Microsoft.AspNetCore.All"/>
   </ItemGroup>
   
-  <Target Name="Rebuild">
-    <Message Text="Rebuild selected" Importance="high"/> 
-  </Target>
-
 </Project>
